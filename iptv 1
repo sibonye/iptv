@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:CBS Reality HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/66236?checkedby:iptvcat.net
+#EXTINF:-1,A
+http://new-pro.tv:8080/Hotel-2021/Allroom/66209?checkedby:iptvcat.net
+#EXTINF:Yes Sport 2 HD,B
+http://new-pro.tv:8080/Hotel-2021/Allroom/66210?checkedby:iptvcat.net
+#EXTINF:Yes Sport 3 HD,C
+http://new-pro.tv:8080/Hotel-2021/Allroom/66211?checkedby:iptvcat.net
+#EXTINF:-1,Yes Sport 4 HD
+http://new-pro.tv:8080/Hotel-2021/Allroom/66212?checkedby:iptvcat.net
